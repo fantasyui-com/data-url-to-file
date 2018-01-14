@@ -1,0 +1,20 @@
+{
+  "name": "data-url-to-file",
+  "version": "1.0.0",
+  "description": "Save arbitrary dataURL (data URI) to a file, with mime support and standard node callback.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fantasyui-com/data-url-to-file.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fantasyui-com/data-url-to-file/issues"
+  },
+  "homepage": "https://github.com/fantasyui-com/data-url-to-file#readme"
+}
